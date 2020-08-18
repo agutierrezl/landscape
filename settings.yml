@@ -16,7 +16,7 @@ global:
     twitter: '@CloudNativeFdn'
     google_site_verification: 8l35EQriJXntsib5sBdRu4gmDV1nAP9PSoHccJC8ABQ
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
-  membership: CNCF
+  membership: CNCF Members
 twitter:
   search: landscape.cncf.io
   url: 'https://landscape.cncf.io'
