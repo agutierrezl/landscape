@@ -1,9 +1,9 @@
 landscape:
   - category:
-    name: CNCF Members
+    name: Infrastructre
     subcategories:
       - subcategory:
-        name: Automation & Configuration
+        name: Hyperscalers
         items:
           - item:
             name: Airship
@@ -19,6 +19,85 @@ landscape:
             logo: ansible.svg
             twitter: 'https://twitter.com/ansible'
             crunchbase: 'https://www.crunchbase.com/organization/red-hat'
+      - subcategory:
+        name: Telcos
+        items:
+          - item:
+            name: Apollo
+            description: Apollo is a reliable open-source configuration management system
+            homepage_url: 'https://github.com/ctripcorp/apollo'
+            repo_url: 'https://github.com/ctripcorp/apollo'
+            logo: apollo.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/ctrip'
+          - item:
+            name: AWS CloudFormation
+            description: AWS CloudFormation provides a common language for you to describe and provision all the infrastructure resources in your cloud environment.
+            homepage_url: 'https://aws.amazon.com/cloudformation/'
+            logo: aws-cloudformation.svg
+            twitter: 'https://twitter.com/awscloudformer'
+            crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
+  - category:
+    name: Software Network Provider
+    subcategories:
+      - subcategory:
+        name: SD Network Provider
+        items:
+          - item:
+            name: Airship
+            homepage_url: 'https://www.airshipit.org/'
+            repo_url: 'https://github.com/airshipit/treasuremap'
+            logo: airship.svg
+            twitter: 'https://twitter.com/airshipproject'
+            crunchbase: 'https://www.crunchbase.com/organization/openstack'
+          - item:
+            name: Ansible
+            homepage_url: 'https://www.ansible.com/'
+            repo_url: 'https://github.com/ansible/ansible'
+            logo: ansible.svg
+            twitter: 'https://twitter.com/ansible'
+            crunchbase: 'https://www.crunchbase.com/organization/red-hat'
+      - subcategory:
+        name: Edge relevant software | Tools
+        items:
+          - item:
+            name: Apollo
+            description: Apollo is a reliable open-source configuration management system
+            homepage_url: 'https://github.com/ctripcorp/apollo'
+            repo_url: 'https://github.com/ctripcorp/apollo'
+            logo: apollo.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/ctrip'
+          - item:
+            name: AWS CloudFormation
+            description: AWS CloudFormation provides a common language for you to describe and provision all the infrastructure resources in your cloud environment.
+            homepage_url: 'https://aws.amazon.com/cloudformation/'
+            logo: aws-cloudformation.svg
+            twitter: 'https://twitter.com/awscloudformer'
+            crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
+  - category:
+    name: Edge Services
+    subcategories:
+      - subcategory:
+        name: SASE
+        items:
+          - item:
+            name: Airship
+            homepage_url: 'https://www.airshipit.org/'
+            repo_url: 'https://github.com/airshipit/treasuremap'
+            logo: airship.svg
+            twitter: 'https://twitter.com/airshipproject'
+            crunchbase: 'https://www.crunchbase.com/organization/openstack'
+          - item:
+            name: Ansible
+            homepage_url: 'https://www.ansible.com/'
+            repo_url: 'https://github.com/ansible/ansible'
+            logo: ansible.svg
+            twitter: 'https://twitter.com/ansible'
+            crunchbase: 'https://www.crunchbase.com/organization/red-hat'
+      - subcategory:
+        name: Edge Compute
+        items:
           - item:
             name: Apollo
             description: Apollo is a reliable open-source configuration management system
