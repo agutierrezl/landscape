@@ -396,7 +396,7 @@ big_picture:
             bottom: 13
             width: 161
             title: CNCF Logo
-    category: CNCF Members
+    category: Infrastructure
 test:
   header: CNCF Cloud Native Interactive Landscape
   section: CNCF Graduated Projects
