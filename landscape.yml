@@ -1,6 +1,6 @@
 landscape:
   - category:
-    name: CNCF Member
+    name: CNCF Members
     subcategories:
       - subcategory:
         name: Automation & Configuration
