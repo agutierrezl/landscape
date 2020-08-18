@@ -1,5 +1,25 @@
 landscape:
   - category:
+    name: CNCF Members
+    subcategories:
+      - subcategory:
+        name: Gold
+        items:
+          - item:
+            name: Airship
+            homepage_url: 'https://www.airshipit.org/'
+            repo_url: 'https://github.com/airshipit/treasuremap'
+            logo: airship.svg
+            twitter: 'https://twitter.com/airshipproject'
+            crunchbase: 'https://www.crunchbase.com/organization/openstack'
+          - item:
+            name: Ansible
+            homepage_url: 'https://www.ansible.com/'
+            repo_url: 'https://github.com/ansible/ansible'
+            logo: ansible.svg
+            twitter: 'https://twitter.com/ansible'
+            crunchbase: 'https://www.crunchbase.com/organization/red-hat'
+  - category:
     name: Infrastructre
     subcategories:
       - subcategory:
